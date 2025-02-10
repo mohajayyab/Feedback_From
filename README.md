@@ -49,15 +49,15 @@ To set up the project locally, follow these steps:
 
 ## Screenshots
 ### Feedback Form UI
-(![Screenshot 2025-02-10 145812](https://github.com/user-attachments/assets/e1f726bb-5761-4ff0-873e-9e5c1ba65f8b)
+![Screenshot 2025-02-10 145812](https://github.com/user-attachments/assets/e1f726bb-5761-4ff0-873e-9e5c1ba65f8b)
 
 
 ### Confirmation Dialog
-(![Screenshot 2025-02-10 145855](https://github.com/user-attachments/assets/ebcf31a1-619e-4ce7-8044-2062ceedf3e6)
+![Screenshot 2025-02-10 145855](https://github.com/user-attachments/assets/ebcf31a1-619e-4ce7-8044-2062ceedf3e6)
 
 
 ### Submission Success Message
-(![Screenshot 2025-02-10 145918](https://github.com/user-attachments/assets/961df347-0458-4de9-95b5-5ca94c9e2dd8)
+![Screenshot 2025-02-10 145918](https://github.com/user-attachments/assets/961df347-0458-4de9-95b5-5ca94c9e2dd8)
 
 
 
