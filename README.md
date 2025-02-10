@@ -49,13 +49,16 @@ To set up the project locally, follow these steps:
 
 ## Screenshots
 ### Feedback Form UI
-![Feedback Form]()
+![Feedback Form](![Screenshot 2025-02-10 145812](https://github.com/user-attachments/assets/e1f726bb-5761-4ff0-873e-9e5c1ba65f8b)
+)
 
 ### Confirmation Dialog
-![Confirmation Dialog]()
+![Confirmation Dialog](![Screenshot 2025-02-10 145855](https://github.com/user-attachments/assets/ebcf31a1-619e-4ce7-8044-2062ceedf3e6)
+)
 
 ### Submission Success Message
-![Success Message]()
+![Success Message](![image](https://github.com/user-attachments/assets/75c93409-06f4-4ede-bdb6-f39956616c30)
+)
 
 
 
