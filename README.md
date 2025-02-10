@@ -47,6 +47,18 @@ To set up the project locally, follow these steps:
 - `FeedbackForm.css`: Styles the feedback form.
 - `App.js`: Renders the `FeedbackForm` component.
 
+## Screenshots
+### Feedback Form UI
+![Feedback Form]()
+
+### Confirmation Dialog
+![Confirmation Dialog]()
+
+### Submission Success Message
+![Success Message]()
+
+
+
 ## Future Enhancements
 - Add form validation for required fields.
 - Implement backend integration to store feedback data.
@@ -58,4 +70,11 @@ This project is open-source and available under the MIT License.
 ---
 
 Feel free to modify and improve the project as needed. Happy coding! 🚀
+
+
+
+
+
+
+
 
