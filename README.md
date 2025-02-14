@@ -68,7 +68,7 @@ To set up the project locally, follow these steps:
 - Enhance UI with better styling and animations.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source.
 
 ---
 
